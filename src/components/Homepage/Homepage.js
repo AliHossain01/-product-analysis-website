@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 const Homepage = () => {
     return (
-        <div className='bg-lime-100'>
+        <div className='bg-gray-200'>
             <div className='flex justify-center md:justify-between px-12 py-8 '>
                 <div>
                     <h1 className='text-5xl font-mono'>Your Next Item</h1>

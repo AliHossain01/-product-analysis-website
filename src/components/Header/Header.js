@@ -4,9 +4,9 @@ import CustomLink from '../CustomLink/CustomLink'
 
 const Header = () => {
     return (
-        <div className='sticky top-0 bg-lime-200 px-12 py-8 flex justify-center md:justify-between'>
+        <div className=' font-mono sticky top-0 bg-emerald-50 px-12 py-8 flex justify-center md:justify-between'>
             <div className='hidden md:block'>
-                <Link className='font-sans font-bold text-xl text-cyan-500' to='/'>
+                <Link className='font-mono font-bold text-xl text-cyan-500' to='/'>
                     চলনবিল ভিলেজ ফুডস
                 </Link>
             </div>
