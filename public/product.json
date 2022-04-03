@@ -3,36 +3,42 @@
     "id": 1,
     "name": "Ali",
     "message": "Great product, cost benefit",
-    "rate": 4.7
+    "rate": 4.7,
+    "image": "https://raw.githubusercontent.com/AliHossain01/fish/main/images/boroputi.png"
   },
   {
     "id": 2,
     "name": "Asif",
     "message": "The product is amazing! ",
-    "rate": 4.8
+    "rate": 4.8,
+    "image": "https://raw.githubusercontent.com/AliHossain01/fish/main/images/bowal.png"
   },
   {
     "id": 3,
     "name": "Mahmud",
     "message": "Top product, very beautiful and smells good ",
-    "rate": 4.9
+    "rate": 4.9,
+    "image": "https://raw.githubusercontent.com/AliHossain01/fish/main/images/chada.png"
   },
   {
     "id": 4,
     "name": "Sumaiya",
     "message": "All OK, recommend!",
-    "rate": 4.6
+    "rate": 4.6,
+    "image": "https://raw.githubusercontent.com/AliHossain01/fish/main/images/chala.png"
   },
   {
     "id": 5,
     "name": "Promita",
     "message": "Arrived early… Clock beautiful and well packed.",
-    "rate": 4.3
+    "rate": 4.3,
+    "image": "https://raw.githubusercontent.com/AliHossain01/fish/main/images/chingri.png"
   },
   {
     "id": 6,
     "name": "Mugdho",
     "message": "Average Quality Product",
-    "rate": 4
+    "rate": 4,
+    "image": "https://raw.githubusercontent.com/AliHossain01/fish/main/images/chingri.png"
   }
 ]
