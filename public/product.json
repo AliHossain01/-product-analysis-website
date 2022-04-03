@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Ali",
+    "message": "Great product, cost benefit",
+    "rate": 4.7
+  },
+  {
+    "id": 2,
+    "name": "Asif",
+    "message": "The product is amazing! ",
+    "rate": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Mahmud",
+    "message": "Top product, very beautiful and smells good ",
+    "rate": 4.9
+  },
+  {
+    "id": 4,
+    "name": "Sumaiya",
+    "message": "All OK, recommend!",
+    "rate": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Promita",
+    "message": "Arrived early… Clock beautiful and well packed.",
+    "rate": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Mugdho",
+    "message": "Average Quality Product",
+    "rate": 4
+  }
+]
