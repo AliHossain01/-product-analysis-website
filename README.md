@@ -1,6 +1,6 @@
 # Product Analysis website
 
-This is the live site link [Cholonbil Village Foods](https://github.com/facebook/create-react-app).
+This is the live site link [Cholonbil Village Foods](https://product-analysis-website-cvf.netlify.app/).
 
 * At first I installed react router and tailwind css for this project.
 * Then the header component was added.
