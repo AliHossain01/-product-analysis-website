@@ -25,10 +25,10 @@ const Homepage = () => {
             <div className='md:px-16 py-8'>
                 <div className='flex flex-col justify-center  items-center '>
                     <h1 className=' font-mono text-xl md:text-5xl '>
-                        Customer Reviews
+                        Customer Reviews(3)
                     </h1>
 
-                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-4 justify-items-center'>
+                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-4 justify-items-center mt-5'>
                         {
                             products.slice(0, 3).map(product => <Review key={product.id} product={product}></Review>)
                         }
